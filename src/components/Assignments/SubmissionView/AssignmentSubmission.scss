@@ -1,0 +1,78 @@
+.srch-std {
+  background-color: #f5f5f5;
+  float: right;
+  border-radius: 3px;
+  padding-inline: 3px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.std-filtr {
+  background-color: #f5f5f5;
+}
+.submsn-pdd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-inline: 50px;
+}
+.submsn-mrgn {
+  margin: 40px;
+}
+.submsn-heading {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.bar {
+  height: 20px;
+}
+.bar-sbmtd {
+  background-color: #6264a7;
+}
+.bar-nt-sbtdl {
+  background-color: #c4314b;
+}
+.bar-label {
+  width: 15px;
+  height: 10px;
+  margin: 3px;
+}
+.bar-txt {
+  font-weight: bold;
+}
+.bar-lbl-txt {
+  font-size: 12px;
+}
+.bar-row-pdd {
+  padding-bottom: 10px;
+}
+.sub-tab {
+  display: none;
+}
+.selected-tab {
+  color: black;
+  font-weight: 550;
+  padding-bottom: 3px;
+  border-bottom: 2px solid #6264a7;
+  cursor: pointer;
+}
+.not-selected-tab {
+  font-weight: 550;
+  color: gray;
+  cursor: pointer;
+}
+.submissions-tab {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.submissions-table {
+  font-size: 12px;
+}
+.submissions-table-header {
+  font-weight: bold;
+}
+.subsn-table-name {
+  padding-inline-start: 5px;
+}
+.sbmsn-mob-padd {
+  margin-top: 20px;
+}

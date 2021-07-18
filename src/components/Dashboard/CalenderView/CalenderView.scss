@@ -1,0 +1,50 @@
+.calender-view-fltrbar {
+  width: 100%;
+}
+.cal-fltr {
+  float: right;
+}
+.cal-fltr-shadow {
+  box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.2);
+}
+.cal-row {
+  height: 100%;
+}
+.cal-col {
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-top-style: groove;
+  border-left-style: groove;
+  border-top-width: 1px;
+  border-left-width: 1px;
+}
+.rbc-date-cell.rbc-now {
+  border-top: #52537d;
+  border-top-style: solid;
+  //background-color: #eaebef;
+}
+.rbc-month-view {
+  border: none !important;
+}
+.rbc-header {
+  background-color: white;
+  text-align: left !important;
+  border-bottom: none !important;
+  padding: 10px 3px !important;
+}
+.rbc-date-cell {
+  padding-left: 5px;
+  text-align: left !important;
+}
+.rbc-toolbar .rbc-toolbar-label {
+  font-weight: bold;
+}
+.rbc-day-bg.rbc-today {
+  background-color: #eaebef;
+}
+.rbc-btn-group {
+  display: none !important;
+}
+.rbc-toolbar .rbc-toolbar-label {
+  text-align: left !important;
+}

@@ -1,0 +1,56 @@
+.algn-center {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.txt-hd {
+  font-weight: bold;
+  padding: 5px;
+  font-size: 14px;
+}
+.txt-sub {
+  padding: 5px;
+  font-size: 12px;
+}
+.img-padding {
+  padding-bottom: 20px;
+}
+.assign-row {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.assign-row:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.timestp {
+  float: right;
+  color: red;
+  font-size: 12px;
+}
+.tmstmp-cmpltd {
+  float: right;
+  color: green;
+  font-size: 12px;
+}
+.assgn-list {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.asgn-name {
+  color: black;
+  font-size: 12px;
+  font-weight: 550;
+}
+.assgn-subj {
+  color: gray;
+  font-size: 12px;
+}
+.crsr {
+  cursor: pointer;
+  padding-bottom: 40px;
+}
+.accord-pdd {
+  padding-bottom: 30px;
+}

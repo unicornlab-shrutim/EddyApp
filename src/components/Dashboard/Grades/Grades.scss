@@ -1,0 +1,40 @@
+.grd-card {
+  margin-inline: 50px;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.top-mrgn {
+  margin-top: 40px;
+}
+.rw-hgt {
+  height: 100vh;
+}
+.sub-row {
+  padding: 10px;
+  cursor: pointer;
+}
+.sub-row:focus {
+  background-color: #e4e4e4;
+}
+.grd-table {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.grd-tbl-hd {
+  background-color: #ebebf8;
+  color: gray;
+}
+.grd-tbl-row {
+  padding: 10px;
+  font-size: 12px;
+}
+.list-classes {
+  margin-top: 10px;
+}
+.subm-status {
+  color: green;
+}
+.not-subm-status {
+  color: red;
+}

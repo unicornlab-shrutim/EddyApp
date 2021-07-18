@@ -1,0 +1,7 @@
+{
+  "APIUrl": "https://cxeddy-pgc.azurewebsites.net",
+  "TeamsAppId": "55a7b12c-b5b4-4c08-a5c7-066fe6c1c26e",
+  "AssignmentsTabID": "Assignments",
+  "Scope": "api://03c3bf6ee196.ngrok.io/40299a48-c19b-4daa-828b-9eb51022b2ac",
+  "ClientId": "40299a48-c19b-4daa-828b-9eb51022b2ac"
+}

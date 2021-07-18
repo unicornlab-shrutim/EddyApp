@@ -1,0 +1,49 @@
+.cont-div {
+  margin-inline: 50px;
+  position: relative;
+  margin-top: 40px;
+}
+.pdd {
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.icon-arr {
+  color: rgb(98, 100, 167);
+}
+.draft-teacher-view {
+  border: #dfdfdf;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.teacher-list {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.teacher-name {
+  color: black;
+  font-size: 12px;
+  font-weight: 550;
+}
+.teacher-subj {
+  color: gray;
+  font-size: 12px;
+}
+.teacher-text-rgt {
+  float: right;
+}
+.teacher-assigned-row {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.assgn-cont-padd {
+  padding-bottom: 10px;
+}
